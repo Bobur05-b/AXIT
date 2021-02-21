@@ -171,6 +171,10 @@ input::placeholder{
     background-color: #d6d5d5;
     padding: 145px 0;
 }
+.publish__img{
+    display: block;
+    margin-top: 0;
+}
 
       /* Main end */
 
